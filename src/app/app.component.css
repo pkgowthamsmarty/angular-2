@@ -1,0 +1,8 @@
+p {
+  font-family: Lato;
+}
+#v{
+  background-image: url("https://raw.githubusercontent.com/pkgowthamsmarty/angular1/master/veg/4.jpg");
+  width: 80vw;
+  height: 80vh;
+}
